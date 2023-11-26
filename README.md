@@ -1,20 +1,20 @@
 # Projet_AI_R-seau_de-_Transport-
-Programme de Recherche d'Itinéraires en Prolog
+# Programme de Recherche d'Itinéraires en Prolog
 Ce programme développé en Prolog permet aux utilisateurs de trouver des itinéraires dans un réseau de transports publics en spécifiant les stations de départ et d'arrivée, ainsi que les préférences de trajet.
-Instructions pour Exécuter le Programme :
-1. Configuration de l'Environnement :
+# Instructions pour Exécuter le Programme :
+# 1. Configuration de l'Environnement :
 Prolog : Assurez-vous d'avoir un environnement Prolog installé sur votre système.
 Éditeur de Texte : Utilisez un éditeur de texte ou un environnement de développement compatible avec Prolog pour ouvrir et exécuter les fichiers.
-2. Téléchargement des Fichiers :
+# 2. Téléchargement des Fichiers :
 Téléchargez le fichier principal du programme contenant les prédicats et les données du réseau de transports.
-3. Exécution du Programme :
+# 3. Exécution du Programme :
 Ouvrez votre environnement Prolog.
 Chargez le fichier principal du programme en utilisant la commande consultou consult/1en Prolog.
-Exemple :
+Exemple : 
 ?- consult('nom_du_fichier.pl').
-4. Utilisation du programme :
+# 4. Utilisation du programme :
 Une fois le fichier chargé, vous pouvez utiliser les prédicats définis pour rechercher des itinéraires en spécifiant les stations de départ et d'arrivée, ainsi que les options supplémentaires pour la recherche d'itinéraires.
-5.Exécution du Programme : 
+# 5.Exécution du Programme : 
 Copier le code
 interface_utilisateur.
 Suivez les instructions à l'écran pour choisir le mode de transport, les stations de départ et d'arrivée, ainsi que l'heure d'arrivée.
